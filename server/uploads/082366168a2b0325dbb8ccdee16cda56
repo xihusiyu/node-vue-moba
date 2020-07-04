@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<!-- saved from url=(0050)https://pvp.qq.com/web201605/herodetail/m/137.html -->
+<html style="font-size: 50px;"><head><meta http-equiv="Content-Type" content="text/html; charset=GBK">
+	
+	<meta name="author" content="Tencent-CP">
+	<meta name="format-detection" content="telephone=no">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<meta name="keywords" content="王者荣耀司马懿,司马懿王者荣耀,王者荣耀司马懿出装,王者荣耀司马懿铭文">
+	<meta name="description" content="《王者荣耀》官方英雄资料、司马懿技能介绍、司马懿技能加点建议、司马懿铭文搭配建议、司马懿出装建议、司马懿英雄关系、司马懿攻略">
+	<title>王者荣耀-王者荣耀官方网站-腾讯游戏</title>
+	<!-- 页面设计：cp | 页面制作：cp | 创建：2017-06-16-->
+	<script>
+		function samResize() {
+			var docEl = document.documentElement;
+			var clientWidth = docEl.clientWidth;
+			if (!clientWidth) {
+				return
+			}
+			docEl.style.fontSize = 100 * (clientWidth / 750) + "px"
+		}
+		samResize();
+	</script>
+	<link href="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/base.css" rel="stylesheet">
+	<link href="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/canon.css" rel="stylesheet">
+</head>
+
+<body>
+	<div class="wrap">
+		<div class="home-top">
+			<div class="logo_cont">
+				<a class="logo_img" href="https://pvp.qq.com/m/index.shtml">
+					<img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/logo.png" alt="LOGO">
+				</a>
+				<div class="logo_title">
+					<h1>王者荣耀&nbsp;&nbsp;&nbsp;&nbsp;攻略站</h1>
+				</div>
+			</div>
+			<div class="download">
+				<a href="https://pvp.qq.com/m/m201706/heroList.shtml" onclick="PTTSendClick(&#39;mainnav&#39;,&#39;tostrategy&#39;,&#39;攻略站&#39;);"><span>更多英雄</span>&gt;</a>
+			</div>
+		</div>
+		<div class="header-hero">
+			<img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/137-bigskin-1.jpg" alt="">
+			<div class="hero-attribute">
+				<p class="hero-title">寂灭之心</p>
+				<p class="hero-name">司马懿</p>
+				<p class="hero-location" data-herotype="4/2">刺客/法师</p>
+				<div class="hero-cover">
+					<ul class="cover-list c">
+						<li>生存
+							<span class="cnver1 hero-attrsp hero-attr1-5"></span>
+						</li>
+						<li>攻击
+							<span class="cnver2 hero-attrsp hero-attr2-5"></span>
+						</li>
+						<li>技能
+							<span class="cnver3 hero-attrsp hero-attr3-9"></span>
+						</li>
+						<li>难度
+							<span class="cnver4 hero-attrsp hero-attr4-5"></span>
+						</li>
+					</ul>
+					<a href="https://pvp.qq.com/m/m201706/herodetail/skin.shtml?imgname=%u5BC2%u706D%u4E4B%u5FC3%260%7C%u9B47%u8BED%u519B%u5E08%260&amp;name=137" class="hero-skin" data-imgname="寂灭之心&amp;0|魇语军师&amp;0" data-name="137">皮肤：2</a>
+				</div>
+			</div>
+		</div>
+		<div class="content-hero slide-container" style="height: 1856px;">
+			<ul class="hero-nav slide-nav">
+				<li onclick="PTTSendClick(&#39;tab&#39;,&#39;explain&#39;,&#39;新手初识&#39;);" class="current">
+					<a href="javascript:;">英雄初识</a>
+				</li>
+				<li onclick="PTTSendClick(&#39;tab&#39;,&#39;strategy&#39;,&#39;高手进阶&#39;);" class="">
+					<a href="javascript:;">进阶攻略</a>
+				</li>
+			</ul>
+			<div class="content-tab slide-content" style="position: relative; overflow: hidden; backface-visibility: hidden;">
+				<!-- 介绍 -->
+				<div class="content-list slide-item current" style="position: absolute; top: 0px; left: 0px; transform: translateX(0px); visibility: visible;">
+					<div class="hero-video">
+						<a href="https://pvp.qq.com/m/m201606/detail.shtml?G_Biz=18&amp;tid=406297&amp;e_code=pvpapp.searchiSubType.iSubType657" class="video-play" onclick="PTTSendClick(&#39;tab&#39;,&#39;video&#39;,&#39;视频&#39;);">英雄介绍视频</a>
+						<a href="https://pvp.qq.com/m/m201706/heropic-detail.shtml?hid=137" class="voice-play play loud-link-click">一图识英雄</a>
+					</div>
+					<!-- 技能加点 -->
+					<div class="panel brtn">
+						<div class="autom pr" id="PlusTab">
+							<ul class="plus-tab c controller">
+								<li onclick="pgvSendClick({hottag:&quot;cp.a20170620wzrs.raiders.plustab.list1&quot;});" class="current">
+									<img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/13700.png" alt="">
+								</li>
+								<li onclick="pgvSendClick({hottag:&quot;cp.a20170620wzrs.raiders.plustab.list2&quot;});">
+									<img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/13710.png" alt="">
+								</li>
+								<li onclick="pgvSendClick({hottag:&quot;cp.a20170620wzrs.raiders.plustab.list3&quot;});">
+									<img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/13720.png" alt="">
+								</li>
+								<li onclick="pgvSendClick({hottag:&quot;cp.a20170620wzrs.raiders.plustab.list4&quot;});">
+									<img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/13730.png" alt="">
+								</li>
+								
+							</ul>
+							<ul class="plus-content content">
+								<li class="current" style="display: list-item; transform-origin: 0px 0px; opacity: 1; transform: scale(1, 1);">
+									<div class="plus-box c">
+										<span class="plus-name" data-skillid="{skill1}">静默之语</span>
+										<span class="plus-value">(冷却值：0 消耗：0)</span>
+									</div>
+									<p class="plus-int">被动：司马懿能够获得2000范围内施法者的视野且在该范围内释放技能会为司马懿回复5点能量；司马懿基础拥有80点能量（每级提升3点能量上限），同时每次击杀或者助攻能够提升10点能量上限，最高可以提升到200点能量上限；释放技能会激活幽影之牙；幽影之牙：司马懿增加30点移动速度并将手持巨大的镰刀进行普通攻击，持续4秒，镰刀每击造成250（+40%法术加成）点法术伤害，召唤镰刀后的首次攻击可位移到目标身后造成500（+80%法术加成）点法术伤害</p>
+									<p class="prompt">小提示：司马懿在前中期需要计算好能量分配情况，并且尽量的参与战斗叠加自身的能量上限</p>
+								</li>
+								<li style="display: none;">
+									<div class="plus-box c">
+										<span class="plus-name" data-skillid="13710">幽影之咬</span>
+										<span class="plus-value">(冷却值：9 消耗：40)</span>
+									</div>
+									<p class="plus-int">司马懿释放无法被选中的灵体，持续两面，控制灵体时本体免疫控制；灵体穿过的敌人时造成100/120/140/160/180/200（+20%法术加成）点法术伤害，释放普通攻击或效果结束后本体将会移动至灵体的位置，并对路径上的敌人造成100/120/140/160/180/200（+20%法术加成）点法术伤害和50%减速，持续1秒</p>
+									<p class="prompt">小提示：灵体的移动速度极快，并且使用普通会立即结束灵体状态</p>
+								</li>
+								<li style="display: none;">
+									<div class="plus-box c">
+										<span class="plus-name" data-skillid="13720">荒芜之域</span>
+										<span class="plus-value">(冷却值：6 消耗：40)</span>
+									</div>
+									<p class="plus-int">司马懿释放灵力，压制周围的区域造成300/340/380/420/460/500（+30%法术加成）点法术伤害与1秒沉默，如果司马懿2秒后还在被压制的区域中则会获得25/30/35/40/45/50点的能量；被动：司马懿吸收部分的法术伤害时，将其中30%在5秒内转化为生命值</p>
+									<p class="prompt">小提示：被动并不能直接减免伤害，需要主要不要高估自身硬度</p>
+								</li>
+								<li style="display: none;">
+									<div class="plus-box c">
+										<span class="plus-name" data-skillid="13730">死神降临</span>
+										<span class="plus-value">(冷却值：35/30/25 消耗：40)</span>
+									</div>
+									<p class="plus-int">司马懿化身死神，在短暂的蓄力后向指定地点冲击，造成700/875/1050（100%法术加成）点法术伤害，并且会对冲击路径触碰的敌人造成50%伤害</p>
+									<p class="prompt">小提示：大招有一定的延迟，需要一定的预判</p>
+								</li>
+								
+							</ul>
+							<div class="plus-control">
+								<span class="plus-prev plus-spr" onclick="pgvSendClick({hottag:&quot;cp.a20170620wzrs.raiders.plusbtn.pprev&quot;});"></span>
+								<span class="plus-next plus-spr" onclick="pgvSendClick({hottag:&quot;cp.a20170620wzrs.raiders.plusbtn.pnext&quot;});"></span>
+							</div>
+
+						</div>
+					</div>
+					<div class="panel brbn">
+						<div class="autom">
+							<h3 class="tit1 ic16">加点建议</h3>
+							<div class="plus-osal c">
+								<div class="osal-box sk1 l">
+									<span class="osal-p1">主升</span>
+									<img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/13720.png" alt="">
+									<span class="osal-p2 upskill" data-upskill="13720">荒芜之域</span>
+								</div>
+								<div class="osal-box sk2 l">
+									<span class="osal-p1">副升</span>
+									<img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/13710.png" alt="">
+									<span class="osal-p2 upskill" data-upskill="13710">幽影之咬</span>
+								</div>
+								<div class="osal-suner l">
+									<p>召唤师技能</p>
+									<div class="c" id="skill3" data-skill="80115|80110"><div class="osal-box l"><img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/80115.jpg" alt=""><span class="osal-p2">闪现</span></div><div class="osal-box l"><img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/80110.jpg" alt=""><span class="osal-p2">狂暴</span></div></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- 技能加点 -->
+					<div class="panel brtn">
+						<div class="autom">
+							<h3 class="tit1 ic11">出装推荐</h3>
+							<div class="skills-build">
+								<p class="tit2">顺风出装</p>
+								<ul class="build-list equip-list" data-item="1425|1240|1236|1232|1235|1239"><li><span class="build-img"><img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/1425.jpg" alt=""></span><span class="build-name">急速战靴</span></li><li><span class="build-img"><img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/1240.jpg" alt=""></span><span class="build-name">噬神之书</span></li><li><span class="build-img"><img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/1236.jpg" alt=""></span><span class="build-name">巫术法杖</span></li><li><span class="build-img"><img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/1232.jpg" alt=""></span><span class="build-name">博学者之怒</span></li><li><span class="build-img"><img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/1235.jpg" alt=""></span><span class="build-name">痛苦面具</span></li><li><span class="build-img"><img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/1239.jpg" alt=""></span><span class="build-name">辉月</span></li></ul>
+								<p class="prompt">小提示：司马懿缺乏回复手段，需要用噬神之书来补充其持续作战的能力，巫术法杖则会让司马懿的刺杀更具爆发力</p>
+							</div>
+							<div class="skills-build brn">
+								<p class="tit2">逆风出装</p>
+								<ul class="build-list equip-list" data-item="1521|1425|1240|1236|1232|1231"><li><span class="build-img"><img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/1521.jpg" alt=""></span><span class="build-name">游击弯刀</span></li><li><span class="build-img"><img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/1425.jpg" alt=""></span><span class="build-name">急速战靴</span></li><li><span class="build-img"><img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/1240.jpg" alt=""></span><span class="build-name">噬神之书</span></li><li><span class="build-img"><img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/1236.jpg" alt=""></span><span class="build-name">巫术法杖</span></li><li><span class="build-img"><img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/1232.jpg" alt=""></span><span class="build-name">博学者之怒</span></li><li><span class="build-img"><img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/1231.jpg" alt=""></span><span class="build-name">虚无法杖</span></li></ul>
+								<p class="prompt">小提示：司马懿利用被动可以洞悉对手位置并且大招也能超越距离发起突袭，综合下来说司马懿非常适合打野位置</p>
+							</div>
+						</div>
+					</div>
+					<div class="panel brt">
+						<div class="autom">
+							<h3 class="tit1 ic12">铭文推荐</h3>
+							<div class="rune-list" data-ming="1517|3515|2503"><dl class="rune-cont c"><dt><img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/1517.png" alt=""></dt><dd><p class="rp1">凶兆</p><p class="rp2"></p><p>法术攻击力+4.2</p><p>攻速加成+0.6%</p><p></p></dd></dl><dl class="rune-cont c"><dt><img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/3515.png" alt=""></dt><dd><p class="rp1">心眼</p><p class="rp2"></p><p>攻速加成+0.6%</p><p>法术穿透+6.4</p><p></p></dd></dl><dl class="rune-cont c"><dt><img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/2503.png" alt=""></dt><dd><p class="rp1">贪婪</p><p class="rp2"></p><p>法术吸血+1.6%</p><p></p></dd></dl></div>
+						</div>
+					</div>
+					<div class="panel brt">
+						<div class="autom">
+							<h3 class="tit1 ic13">使用技巧</h3>
+							<p class="use-skills">1.尽量参与战斗，司马懿通过击败或助攻增加的能量上限值，可以让司马懿提前达到最高限制 2、大招有一定的延迟，需要预判敌方走位计算提前量</p>
+						</div>
+					</div>
+					<div class="panel brt">
+						<div class="autom">
+							<h3 class="tit1 ic14">对抗技巧</h3>
+							<p class="use-skills">1.前期司马懿十分缺乏能量，逼迫他走出沉默区域避免其回复能量能够持续作战;2.司马懿二技能的被动会将已经承受的部分法术伤害转化为治疗效果，并不能直接造成伤害减免</p>
+						</div>
+					</div>
+					<div class="panel brt">
+						<div class="autom">
+							<h3 class="tit1 ic15">团战思路</h3>
+							<p class="use-skills">长距离的突袭能力，让司马懿天生就能够轻松抵达敌方后排，但是刺客的身板不足以让其先手开团，所以，最好还是一边等待机会威吓对方后排输出，一边等待友方坦克战士开启团战</p>
+						</div>
+					</div>
+					<div class="panel">
+						<div class="autom">
+							<h3 class="tit1 ic8">英雄关系</h3>
+							<p class="tit2">最佳搭档</p>
+							<ul class="rela-list" data-relatename="|" data-relatedesc="|">
+								<li>
+									<img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/135.jpg" class="rela-img" alt="">
+									<p class="rela-text">项羽有优秀的开团能力，并且随后可以通过技能降低敌方输出，为司马懿进场输出创造条件</p>
+								</li>
+								<li>
+									<img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/182.jpg" class="rela-img" alt="">
+									<p class="rela-text">干将的超远消耗能力，能让司马懿能在一次命中大量飞剑后，选择直接突进开启团战</p>
+								</li>
+							</ul>
+							<p class="tit2">被谁克制</p>
+							<ul class="rela-list" data-relatename="|" data-relatedesc="|">
+								<li>
+									<img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/193.jpg" class="rela-img" alt="">
+									<p class="rela-text">司马懿在突袭方面具有很大的优势，但是，如果敌方正在发愁如何开战的话，就是另外一种情况了，正如铠这样的近战具有统治力英雄就非常克制司懿</p>
+								</li>
+								<li>
+									<img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/187.jpg" class="rela-img" alt="">
+									<p class="rela-text">硬控十分克制刺客的突袭，会让司马懿无法进场输出</p>
+								</li>
+							</ul>
+							<p class="tit2">克制谁</p>
+							<ul class="rela-list brn" data-relatename="|" data-relatedesc="|">
+								<li>
+									<img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/130.jpg" class="rela-img" alt="">
+									<p class="rela-text">宫本的大招命中后，司马懿只需使用1技能即可轻松摆脱其锁定</p>
+								</li>
+								<li>
+									<img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/190.jpg" class="rela-img" alt="">
+									<p class="rela-text">司马懿本身的法术伤害吸收能力就比较克制法系英雄，再加上其追击能力，可使得诸葛亮基本上无法发挥</p>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<!-- 攻略 -->
+				<div class="content-list slide-item" style="position: absolute; top: 0px; left: 0px; visibility: hidden;">
+					<ul class="raiders-list strategy-info"><li id="406250"><a href="https://pvp.qq.com/m/m201606/detail.shtml?G_Biz=18&amp;tid=406250&amp;e_code=pvpweb_m.statictypenew.typeundefined" title="【快速上手英雄技能】司马懿" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(406250);"><div class="vdbtn-left"><img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/S.1534909967.b08d9212245f0e17f4eff40f71bfde55.230x140_33962.jpg" alt=""><span>点击播放</span></div><div class="vdbtn-right"><p>【快速上手英雄技能】司马懿</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">1804.7万</span><span class="rd-video-spr rd-video-day">2018-08-22</span></div></div></a></li><li id="406049"><a href="https://pvp.qq.com/m/m201606/detail.shtml?G_Biz=18&amp;tid=406049&amp;e_code=pvpweb_m.statictypenew.typeundefined" title="【百星王者带你飞】第51期：寂灭之心司马懿，万军丛中取首级" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(406049);"><div class="vdbtn-left"><img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/900500.1534849215.c5c6f237c4826add744f5ec86ddcd89b.900x500_88727.jpg" alt=""><span>点击播放</span></div><div class="vdbtn-right"><p>【百星王者带你飞】第51期：寂灭之心司马懿，万军丛中取首级</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">556.2万</span><span class="rd-video-spr rd-video-day">2018-08-21</span></div></div></a></li><li id="406250"><a href="https://pvp.qq.com/m/m201606/detail.shtml?G_Biz=18&amp;tid=406250&amp;e_code=pvpweb_m.statictypenew.type2" title="【快速上手英雄技能】司马懿" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(406250);"><div class="vdbtn-left"><img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/S.1534909967.b08d9212245f0e17f4eff40f71bfde55.230x140_33962.jpg" alt=""><span>点击播放</span></div><div class="vdbtn-right"><p>【快速上手英雄技能】司马懿</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">1804.7万</span><span class="rd-video-spr rd-video-day">2018-08-22</span></div></div></a></li><li id="406049"><a href="https://pvp.qq.com/m/m201606/detail.shtml?G_Biz=18&amp;tid=406049&amp;e_code=pvpweb_m.statictypenew.type2" title="【百星王者带你飞】第51期：寂灭之心司马懿，万军丛中取首级" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(406049);"><div class="vdbtn-left"><img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/900500.1534849215.c5c6f237c4826add744f5ec86ddcd89b.900x500_88727.jpg" alt=""><span>点击播放</span></div><div class="vdbtn-right"><p>【百星王者带你飞】第51期：寂灭之心司马懿，万军丛中取首级</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">556.2万</span><span class="rd-video-spr rd-video-day">2018-08-21</span></div></div></a></li><li id="625040"><a href="https://pvp.qq.com/m/m201606/detail.shtml?G_Biz=18&amp;tid=625040&amp;e_code=pvpweb_m.statictypenew.type2" title="司马懿两刀索命，射手瑟瑟发抖" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(625040);"><div class="vdbtn-left"><img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/3ac7abb99814f285785bc00a291bb714.1591958308.d372bc827f1e3af86e3bb2daa02ccfa0.230x140_55028.JPG" alt=""><span>点击播放</span></div><div class="vdbtn-right"><p>司马懿两刀索命，射手瑟瑟发抖</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">2.1万</span><span class="rd-video-spr rd-video-day">2020-06-12</span></div></div></a></li><li id="630157"><a href="https://pvp.qq.com/m/m201606/detail.shtml?G_Biz=18&amp;tid=630157&amp;e_code=pvpweb_m.statictypenew.type2" title="巅峰赛2072分的司马懿全程高能，这大招放的让人窒息！" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(630157);"><div class="vdbtn-left"><img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/2749f3b90a2b08ea4f5d92dbe1ca6741.1593321895.6c8a2ac2b57f3fa45080bf0144a2a5c8.230x140_62701.png" alt=""><span>点击播放</span></div><div class="vdbtn-right"><p>巅峰赛2072分的司马懿全程高能，这大招放的让人窒息！</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">1.9万</span><span class="rd-video-spr rd-video-day">2020-06-29</span></div></div></a></li><li id="455927"><a href="https://pvp.qq.com/m/m201606/newCont.shtml?G_Biz=18&amp;tid=455927" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(455927);"><div class="vdbtn-left"><img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/cfcd208495d565ef66e7dff9f98764da.1588515438.2291161bf789e7c249c958c5cf163bd9.230x140_53583.jpg" alt=""></div><div class="vdbtn-right"><p>王者荣耀|S19司马懿崛起？这套攻略教你carry全场！</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">684</span><span class="rd-video-spr rd-video-day">2020-05-04</span></div></div></a></li><li id="462156"><a href="https://pvp.qq.com/m/m201606/newCont.shtml?G_Biz=18&amp;tid=462156" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(462156);"><div class="vdbtn-left"><img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/c4ca4238a0b923820dcc509a6f75849b.1590824824.d7b7cfd44bd3eb4427a127fd1cf289f6.230x140_44055.jpg" alt=""></div><div class="vdbtn-right"><p>一切都在破碎中！司马懿详细教学！</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">370</span><span class="rd-video-spr rd-video-day">2020-05-30</span></div></div></a></li><li id="463972"><a href="https://pvp.qq.com/m/m201606/newCont.shtml?G_Biz=18&amp;tid=463972" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(463972);"><div class="vdbtn-left"><img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/5f3d624729a8b2ed49c3db43b7075506.1591575474.013fc5ab4d79da35edaf05a88e8caaf8.230x140_68038.png" alt=""></div><div class="vdbtn-right"><p>司马懿一出，谁与争锋?血条消失术你会吗？</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">307</span><span class="rd-video-spr rd-video-day">2020-06-08</span></div></div></a></li><li id="459322"><a href="https://pvp.qq.com/m/m201606/newCont.shtml?G_Biz=18&amp;tid=459322" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(459322);"><div class="vdbtn-left"><img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/cfcd208495d565ef66e7dff9f98764da.1589796497.7cf3263b08e732a781027822495d7dc6.230x140_46095.jpg" alt=""></div><div class="vdbtn-right"><p>体验服法系装备调整，金色圣剑最大受益者居然是司马懿</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">261</span><span class="rd-video-spr rd-video-day">2020-05-19</span></div></div></a></li><li id="462226"><a href="https://pvp.qq.com/m/m201606/newCont.shtml?G_Biz=18&amp;tid=462226" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(462226);"><div class="vdbtn-left"><img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/c4ca4238a0b923820dcc509a6f75849b.1590887250.938e353570363920325d13c557c068b2.230x140_71373.png" alt=""></div><div class="vdbtn-right"><p>深度攻略|司马懿团战两种切入方法，根据实战情况来选择！</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">220</span><span class="rd-video-spr rd-video-day">2020-05-31</span></div></div></a></li><li id="465860"><a href="https://pvp.qq.com/m/m201606/newCont.shtml?G_Biz=18&amp;tid=465860" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(465860);"><div class="vdbtn-left"><img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/d9526b501f1db0c29bd079bee42b0b13.1592365123.243551c14a65ae68545375f40239e71b.230x140_70532.png" alt=""></div><div class="vdbtn-right"><p>王者荣耀团战篇：司马懿什么时候进场最妥？</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">173</span><span class="rd-video-spr rd-video-day">2020-06-17</span></div></div></a></li><li id="467910"><a href="https://pvp.qq.com/m/m201606/newCont.shtml?G_Biz=18&amp;tid=467910" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(467910);"><div class="vdbtn-left"><img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/c4ca4238a0b923820dcc509a6f75849b.1593215511.4f0430b6028a79e66865910409ad79d3.230x140_51363.jpg" alt=""></div><div class="vdbtn-right"><p>攻略篇|司马懿大招打不中人？这些细节让你成为死神刺客！</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">63</span><span class="rd-video-spr rd-video-day">2020-06-28</span></div></div></a></li><li id="461200"><a href="https://pvp.qq.com/m/m201606/newCont.shtml?G_Biz=18&amp;tid=461200" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(461200);"><div class="vdbtn-left"><img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/f3ca289c1cd9494aa9d953713f747a3f.1590486830.e4231ceabbbdb11163cf706732e13bec.230x140_61887.jpg" alt=""></div><div class="vdbtn-right"><p>吉哥攻略|请收下这3大连招与11个细节，你也可以玩转司马懿！</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">132</span><span class="rd-video-spr rd-video-day">2020-05-26</span></div></div></a></li><li id="460338"><a href="https://pvp.qq.com/m/m201606/newCont.shtml?G_Biz=18&amp;tid=460338" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(460338);"><div class="vdbtn-left"><img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/be53a0541a6d36f6ecb879fa2c584b08.1590152816.cc81a14e97bf61b0252f95d4138cd094.230x140_50130.jpg" alt=""></div><div class="vdbtn-right"><p>【上头分奴】第一期：T3秒变乱杀星？冷门杀手让对方举手无措</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">134</span><span class="rd-video-spr rd-video-day">2020-05-23</span></div></div></a></li><li id="460085"><a href="https://pvp.qq.com/m/m201606/newCont.shtml?G_Biz=18&amp;tid=460085" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(460085);"><div class="vdbtn-left"><img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/235952add03ecffe06d5bbf9cdb3ae16.1590067258.80aabe7bba2a4b9f942423f9519484e7.230x140_41175.jpg" alt=""></div><div class="vdbtn-right"><p>中路最怕的不是上官婉儿，选择这名暗黑系英雄，节奏牢牢掌控</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">132</span><span class="rd-video-spr rd-video-day">2020-05-22</span></div></div></a></li><li id="453097"><a href="https://pvp.qq.com/m/m201606/newCont.shtml?G_Biz=18&amp;tid=453097" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(453097);"><div class="vdbtn-left"><img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/saved_resource" alt=""></div><div class="vdbtn-right"><p>王者冷知识云中君无视地形达摩踢不上墙，东皇咬司马懿，灵体可移动</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">309</span><span class="rd-video-spr rd-video-day">2020-04-20</span></div></div></a></li><li id="452422"><a href="https://pvp.qq.com/m/m201606/newCont.shtml?G_Biz=18&amp;tid=452422" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(452422);"><div class="vdbtn-left"><img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/c4ca4238a0b923820dcc509a6f75849b.1587000441.796a20989b73e4d228037234f87e8978.184x124_37878.jpg" alt=""></div><div class="vdbtn-right"><p>S19赛季玩司马懿的小技巧，释放技能后的第一次普攻，伤害最高</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">252</span><span class="rd-video-spr rd-video-day">2020-04-16</span></div></div></a></li><li id="606643"><a href="https://pvp.qq.com/m/m201606/detail.shtml?G_Biz=18&amp;tid=606643&amp;e_code=pvpweb_m.statictypenew.type2" title="王者荣耀梦演：司马懿被动的2000码范围，到底有多远？" class="raiders-vdbtn c" onclick="PTTSendClick(&#39;strategy&#39;,&#39;video&#39;,&#39;攻略&#39;);storeStrategy(606643);"><div class="vdbtn-left"><img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/55e5c82fa4a97b01a58bdba3d73d7701.1586919614.1375451a2aa433593c126bdbe7b30381.230x140_43668.jpg" alt=""><span>点击播放</span></div><div class="vdbtn-right"><p>王者荣耀梦演：司马懿被动的2000码范围，到底有多远？</p><div class="rd-video-info c"><span class="rd-video-spr rd-video-fre">6078</span><span class="rd-video-spr rd-video-day">2020-04-15</span></div></div></a></li></ul>
+					<div class="load-more">
+						<a href="javascript:;" class="load-link">全部加载完成</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<a href="javascript: showShareDialog();" class="hero-share"></a>
+	</div>
+	<div class="share-guide">
+		<img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/share-guide.png" alt="">
+	</div>
+	<script src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/jquery-1.11.3.min.js.下载"></script>
+	<script type="text/javascript" src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/milo.js.下载"></script>
+	<script type="text/javascript" src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/fastclick.min.js.下载"></script>
+	<script type="text/javascript" src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/PAGE_WMP_BIZ_TYPE.js.下载"></script>
+	<script src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/Activity_Comm.js.下载"></script>
+	<script src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/wmpCommon_v3.js.下载"></script>
+	<script src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/TGMobileShare.min.js.下载"></script>
+	<script type="text/javascript" src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/ping_tcss_tgideas_https_min.js.下载"></script>
+	<script type="text/javascript" src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/herodetail.js.下载" charset="UTF-8"></script>
+	<script>
+	    //此段代码不能放到外链JS中，
+		var setSite = { //设置网站属性
+			siteType: "os", //必填项:"os"代表是官网，如果不是，则填写actName例如a20160701xxx
+			pageType: "herodetail", //必填项:本页面的定位；按照页面含义填写例如main||list||detail||download||share||page1||pageN
+			pageName: "英雄攻略", //必填项:页面中文名
+			osact: "m", //选填项:是否是官网专题(在官网运营的专题)boolean；默认是0；可以在链接上加入参数osact=1来灵活设置
+			project:"base"
+		}
+		if (typeof (pgvMain) == 'function') pgvMain(); //千万不能忘记！
+		
+		if ($('.brf .hero-story').text().trim() == 'undefined') {
+			$('.brf').remove();
+		}
+
+		$('.loud-link-click').attr('href', '/m/m201706/heropic-detail.shtml?hid=137');
+
+		TGMobileShare({
+			shareTitle: '王者荣耀攻略站-司马懿英雄攻略',
+			shareImgUrl: 'https://game.gtimg.cn/images/yxzj/img201606/skin/hero-info/137/137-bigskin-1.jpg',
+			actName: 'zsbdm-hero137'
+		});
+
+		// 技能加点切换
+		setArrow();
+
+		function setArrow() {
+			var $list = $('.plus-tab'),
+				counts = $list.children().length,
+				$control = $('.plus-control'),
+				oddWidth = $('#PlusTab').width(),
+				_w = Math.ceil(counts / 5),
+				$prev = $('.plus-prev'),
+				$next = $('.plus-next'),
+				i = 0;
+
+			if (counts > 5) {
+				$control.css('display', 'block');
+				$list.css('width', _w + '00%');
+
+				init();
+			}
+
+			function init() {
+				$prev.on('click', function () {
+					if (i == 0) return false;
+					i--;
+					var px = -i * oddWidth + 'px';
+					$list.css({
+						'transform': 'translate3d(' + px + ', 0, 0)'
+					});
+					arrowShow();
+				});
+
+				$next.on('click', function () {
+					i++;
+					var px = -i * oddWidth + 'px';
+					if (i + 1 == _w) {
+						$(this).hide();
+					}
+					$list.css({
+						'transform': 'translate3d(' + px + ', 0, 0)'
+					});
+					arrowShow();
+				});
+			}
+
+			function arrowShow() {
+				if (i == 0) {
+					$prev.css('display', 'none');
+				} else {
+					$prev.css('display', 'block');
+				}
+
+				if (i + 1 == _w) {
+					$next.css('display', 'none');
+				} else {
+					$next.css('display', 'block');
+				}
+			}
+		}
+	</script><script src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/qqapi.https.js.下载"></script><img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/pingd" style="display:none;position:fixed;left:-999999px;top:-999999px;width:0;height:0;">
+
+
+<img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/pingd(1)" style="display:none;position:fixed;left:-999999px;top:-999999px;width:0;height:0;"><img src="./王者荣耀-王者荣耀官方网站6666-腾讯游戏_files/pingd(2)" style="display:none;position:fixed;left:-999999px;top:-999999px;width:0;height:0;"></body></html>
